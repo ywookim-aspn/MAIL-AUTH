@@ -10,7 +10,7 @@ AAA(ASPN AI Agent) 기능 중 사용자 대신 Gmail API를 통해 메일을 발
 ---
 
 ## 🔒 개인정보처리방침
-- **URL:** https://ywookim-aspn.github.io/MAIL-AUTH/privacy.html  
+- **URL:** <https://ywookim-aspn.github.io/MAIL-AUTH/privacy.html>
 
 ---
 
